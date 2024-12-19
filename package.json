@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.714.0",
+    "dotenv": "^16.4.7",
+    "ioredis": "^5.4.1"
+  }
+}
